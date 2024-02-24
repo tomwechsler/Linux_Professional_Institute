@@ -1,1 +1,1 @@
-# Linux_Professional_Institute
+# Linux Professional Institute
